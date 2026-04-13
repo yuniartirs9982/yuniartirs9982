@@ -41,8 +41,8 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: *(add your link)*
-- Email: *(optional)*
+- LinkedIn: *[linkedin.com/in/sriyuniartirotty/](https://www.linkedin.com/in/sriyuniartirotty/)*
+- Email: *yuniartirs9982@gmail.com*
 
 ---
 
