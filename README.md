@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Sri Yuniarti
 
-<!--
-**yuniartirs9982/yuniartirs9982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Engineer focused on **distributed systems, Kafka, and data-intensive applications**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔧 Building scalable backend systems with **Laravel & Golang**
+- ⚡ Designing **event-driven architectures using Apache Kafka**
+- 🗄️ Working with **cross-database synchronization (Oracle ↔ MySQL)**
+- 📊 Optimizing **SQL queries and large-scale data processing**
+- 🏗️ Interested in **backend architecture, system scalability, and data consistency**
+
+---
+
+## 🛠️ Tech Stack
+**Backend:** Laravel, Lumen, Golang  
+**Messaging:** Apache Kafka  
+**Database:** MySQL, Oracle  
+**DevOps:** Kubernetes, Docker (basic)  
+**Others:** REST APIs, Distributed Systems  
+
+---
+
+## 📌 Featured Project
+### 🔹 Distributed Payment Synchronization System
+- Event-driven architecture using **Kafka**
+- Cross-database sync (**Oracle → MySQL, MySQL → MySQL**)
+- Lumen-based scheduler for fallback synchronization
+- Improved data consistency and reduced sync latency
+
+👉 Check it out here: *(add your repo link later)*
+
+---
+
+## 📈 What I’m Working On
+- Improving backend system scalability  
+- Exploring better patterns for **distributed data consistency**  
+- Enhancing performance for **data-intensive applications**
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: *(add your link)*
+- Email: *(optional)*
+
+---
+
+⭐️ Always open to backend engineering opportunities and interesting system design problems
