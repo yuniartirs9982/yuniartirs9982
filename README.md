@@ -29,7 +29,7 @@
 - Lumen-based scheduler for fallback synchronization
 - Improved data consistency and reduced sync latency
 
-👉 Check it out here: *(add your repo link later)*
+👉 Check it out here: *[distributed-payment-sync](https://github.com/yuniartirs9982/distributed-payment-sync)*
 
 ---
 
